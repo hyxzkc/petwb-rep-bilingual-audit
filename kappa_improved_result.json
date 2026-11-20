@@ -1,0 +1,93 @@
+{
+  "status": "complete",
+  "n_total": 180,
+  "sample_composition": {
+    "original_ppv_sample": 120,
+    "random_match_control": 60,
+    "control_sampling_seed": 20261120
+  },
+  "sources": {
+    "original_A": "overnorm120_annotator_A.json",
+    "original_B": "overnorm120_annotator_B.json",
+    "control_A": "kappa_control60_annotator_A.json",
+    "control_B": "kappa_control60_annotator_B.json"
+  },
+  "annotator_marginals": {
+    "A": {
+      "over_normalization": 117,
+      "not_over_norm": 9,
+      "match": 54
+    },
+    "B": {
+      "match": 51,
+      "over_normalization": 105,
+      "not_over_norm": 24
+    }
+  },
+  "raw_agreement": {
+    "numerator": 157,
+    "denominator": 180,
+    "rate": 0.8722222222222222,
+    "percent": "87.22%"
+  },
+  "disagreements": {
+    "total": 23,
+    "original_120": 11,
+    "control_60": 12,
+    "control_indices": [
+      8,
+      9,
+      17,
+      20,
+      25,
+      26,
+      38,
+      42,
+      43,
+      48,
+      51,
+      52
+    ],
+    "control_disagreement_protocol": "Disagreements retained and not adjudicated for agreement estimation.",
+    "adjudication": {
+      "file": "kappa_control60_adjudicated.json",
+      "control_disagreements_adjudicated": 12,
+      "original_120_disagreements_previously_adjudicated": 11,
+      "adjudication_used_for_agreement_metrics": false,
+      "note": "Adjudication provides final descriptive labels. Cohen kappa, PABAK, and Gwet AC1 remain based on the pre-adjudication independent labels.",
+      "source_files": [
+        "overnorm120_adjudicated.json",
+        "kappa_control60_adjudicated.json"
+      ]
+    }
+  },
+  "cohen_kappa": 0.7585301837270342,
+  "pabak": 0.7444444444444445,
+  "gwet_ac1": 0.8265950428800302,
+  "expected_agreement_pe": 0.4708333333333333,
+  "expected_agreement_pe_ac1": 0.263125,
+  "pbar": {
+    "over_normalization": 0.6166666666666667,
+    "match": 0.2916666666666667,
+    "not_over_norm": 0.09166666666666666
+  },
+  "definitions": {
+    "cohen_kappa": "Three-category nominal kappa using over_normalization, match, and not_over_norm.",
+    "pabak": "2*observed_agreement-1, retained for comparability with the original report.",
+    "gwet_ac1": "Multicategory AC1 with pe_ac1=sum_k pbar_k(1-pbar_k)/(K-1), K=3."
+  },
+  "ppv": {
+    "estimate": "97.43%",
+    "ci": "94.18%–99.93%",
+    "sample_n": 120,
+    "note": "Unchanged and calculated only from the original prespecified stratified PPV sample, not from the 180-unit agreement set."
+  },
+  "limitation": "The 60 control units were sampled from rule-flagged match units. Twelve control disagreements were retained. Several disagreements reflected different handling of truncated evidence, so the expanded agreement estimate should be interpreted with this protocol limitation.",
+  "ppv_pooling": {
+    "pooled_180_ppv_valid": false,
+    "reason": "The original 120 units were sampled from the 2012 over-normalization candidate pool, whereas the 60 controls were sampled from a separate 4447-unit rule-match pool. Their sampling frames, target parameters, and weights differ.",
+    "reportable_ppv": "97.43%",
+    "reportable_ppv_sample_n": 120,
+    "control_set_role": "agreement validation only"
+  }
+}

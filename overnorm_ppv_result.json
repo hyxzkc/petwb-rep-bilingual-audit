@@ -1,0 +1,62 @@
+{
+  "population_candidates": 2012,
+  "sample_n": 120,
+  "adjudicated_over_norm": 116,
+  "overall_sample_counts": {
+    "over_normalization": 116,
+    "not_over_norm": 4
+  },
+  "strata": {
+    "not_increased|quantified_or_qualified": {
+      "N": 4,
+      "n": 4,
+      "over_norm": 4,
+      "sample_ppv": 1.0,
+      "weight": 1.0
+    },
+    "not_abnormal|plain": {
+      "N": 1499,
+      "n": 60,
+      "over_norm": 59,
+      "sample_ppv": 0.9833333333333333,
+      "weight": 24.983333333333334
+    },
+    "other|quantified_or_qualified": {
+      "N": 2,
+      "n": 2,
+      "over_norm": 2,
+      "sample_ppv": 1.0,
+      "weight": 1.0
+    },
+    "other|plain": {
+      "N": 8,
+      "n": 6,
+      "over_norm": 5,
+      "sample_ppv": 0.8333333333333334,
+      "weight": 1.3333333333333333
+    },
+    "not_increased|plain": {
+      "N": 118,
+      "n": 18,
+      "over_norm": 18,
+      "sample_ppv": 1.0,
+      "weight": 6.555555555555555
+    },
+    "not_abnormal|quantified_or_qualified": {
+      "N": 381,
+      "n": 30,
+      "over_norm": 28,
+      "sample_ppv": 0.9333333333333333,
+      "weight": 12.7
+    }
+  },
+  "ppv_weighted": 0.9742958913187542,
+  "ppv_weighted_percent": "97.43%",
+  "bootstrap_replicates": 20000,
+  "bootstrap_seed": 20261120,
+  "bootstrap_95ci": [
+    0.941824055666004,
+    0.9993373094764745
+  ],
+  "method": "Stratum-weighted PPV with nonparametric within-stratum bootstrap; final adjudication follows the prespecified operational rule."
+}

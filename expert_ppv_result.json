@@ -1,0 +1,113 @@
+{
+  "status": "expert_reviewed",
+  "expert_code": "E-0731",
+  "expert_qualification": "nuclear medicine associate chief physician; 11 years PET/CT reading, 5 years report review; independent Chinese and English medical-text reading",
+  "n_total": 180,
+  "expert_counts": {
+    "over_normalization": 121,
+    "match": 54,
+    "not_over_norm": 5
+  },
+  "a_group_n": 120,
+  "a_group_expert_over_norm": 120,
+  "a_group_expert_not_over_norm": 0,
+  "ppv": {
+    "estimate": 1.0,
+    "percent": "100.00%",
+    "bootstrap_95ci": [
+      1.0,
+      1.0
+    ],
+    "ci_percent": "100.00%–100.00%",
+    "replicates": 20000,
+    "seed": 20261120,
+    "formula": "sum(N_h * PPV_h) / 2012",
+    "gold_standard": "E-0731 independent blinded expert labels",
+    "sample_scope": "A group 120 stratified over-normalization candidates only"
+  },
+  "strata": {
+    "not_increased|quantified_or_qualified": {
+      "N": 4,
+      "n": 4,
+      "over_norm": 4,
+      "ppv": 1.0,
+      "weight": 1.0
+    },
+    "not_abnormal|plain": {
+      "N": 1499,
+      "n": 60,
+      "over_norm": 60,
+      "ppv": 1.0,
+      "weight": 24.983333333333334
+    },
+    "other|quantified_or_qualified": {
+      "N": 2,
+      "n": 2,
+      "over_norm": 2,
+      "ppv": 1.0,
+      "weight": 1.0
+    },
+    "other|plain": {
+      "N": 8,
+      "n": 6,
+      "over_norm": 6,
+      "ppv": 1.0,
+      "weight": 1.3333333333333333
+    },
+    "not_increased|plain": {
+      "N": 118,
+      "n": 18,
+      "over_norm": 18,
+      "ppv": 1.0,
+      "weight": 6.555555555555555
+    },
+    "not_abnormal|quantified_or_qualified": {
+      "N": 381,
+      "n": 30,
+      "over_norm": 30,
+      "ppv": 1.0,
+      "weight": 12.7
+    }
+  },
+  "old_structured_ppv_internal_only": {
+    "estimate": 0.9743,
+    "label": "internal comparison only; exclude from manuscript"
+  },
+  "agreement": {
+    "llm": {
+      "raw_agreement": 0.95,
+      "expected_agreement": 0.5358950617283951,
+      "cohen_kappa": 0.8922657444969075,
+      "agreement_numerator": 171,
+      "n": 180
+    },
+    "A": {
+      "raw_agreement": 0.9444444444444444,
+      "expected_agreement": 0.5283333333333333,
+      "cohen_kappa": 0.8822143698468786,
+      "agreement_numerator": 170,
+      "n": 180
+    },
+    "B": {
+      "raw_agreement": 0.8166666666666667,
+      "expected_agreement": 0.48083333333333333,
+      "cohen_kappa": 0.6468699839486356,
+      "agreement_numerator": 147,
+      "n": 180
+    }
+  },
+  "quality_flags": {
+    "organ_no_count": 1,
+    "evidence_incomplete_count": 5,
+    "expert_incomplete_indices": [
+      131,
+      142,
+      149,
+      161,
+      178
+    ],
+    "cross_case_artifact_indices": [
+      178
+    ]
+  }
+}

@@ -1,0 +1,602 @@
+[
+  {
+    "i": 0,
+    "final_label": "over_normalization",
+    "adjudicator_note": "English explicitly states normal after a Chinese negation/physiological expression."
+  },
+  {
+    "i": 1,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 2,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 3,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 4,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 5,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 6,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 7,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 8,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 9,
+    "final_label": "over_normalization",
+    "adjudicator_note": "English explicitly states normal after a Chinese negation/physiological expression."
+  },
+  {
+    "i": 10,
+    "final_label": "over_normalization",
+    "adjudicator_note": "English explicitly states normal after a Chinese negation/physiological expression."
+  },
+  {
+    "i": 11,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 12,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 13,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 14,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 15,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 16,
+    "final_label": "over_normalization",
+    "adjudicator_note": "English explicitly states normal after a Chinese negation/physiological expression."
+  },
+  {
+    "i": 17,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 18,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 19,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 20,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 21,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 22,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 23,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 24,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 25,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 26,
+    "final_label": "over_normalization",
+    "adjudicator_note": "English explicitly states normal after a Chinese negation/physiological expression."
+  },
+  {
+    "i": 27,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 28,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 29,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 30,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 31,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 32,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 33,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 34,
+    "final_label": "over_normalization",
+    "adjudicator_note": "English explicitly states normal after a Chinese negation/physiological expression."
+  },
+  {
+    "i": 35,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 36,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 37,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 38,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 39,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 40,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 41,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 42,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 43,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 44,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 45,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 46,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 47,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 48,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 49,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 50,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 51,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 52,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 53,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 54,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 55,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 56,
+    "final_label": "not_over_norm",
+    "adjudicator_note": "English evidence is truncated or incomplete, so over-normalization cannot be confirmed."
+  },
+  {
+    "i": 57,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 58,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 59,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 60,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 61,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 62,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 63,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 64,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 65,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 66,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 67,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 68,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 69,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 70,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 71,
+    "final_label": "not_over_norm",
+    "adjudicator_note": "English evidence is truncated or incomplete, so over-normalization cannot be confirmed."
+  },
+  {
+    "i": 72,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 73,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 74,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 75,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 76,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 77,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 78,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 79,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 80,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 81,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 82,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 83,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 84,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 85,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 86,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 87,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 88,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 89,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 90,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 91,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 92,
+    "final_label": "over_normalization",
+    "adjudicator_note": "English explicitly states normal after a Chinese negation/physiological expression."
+  },
+  {
+    "i": 93,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 94,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 95,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 96,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 97,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 98,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 99,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 100,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 101,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 102,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 103,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 104,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 105,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 106,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 107,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 108,
+    "final_label": "not_over_norm",
+    "adjudicator_note": "English evidence is truncated or incomplete, so over-normalization cannot be confirmed."
+  },
+  {
+    "i": 109,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 110,
+    "final_label": "not_over_norm",
+    "adjudicator_note": "English evidence is truncated or incomplete, so over-normalization cannot be confirmed."
+  },
+  {
+    "i": 111,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 112,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 113,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 114,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 115,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 116,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 117,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 118,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  },
+  {
+    "i": 119,
+    "final_label": "over_normalization",
+    "adjudicator_note": "No disagreement; independent labels agree."
+  }
+]
