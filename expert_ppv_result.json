@@ -1,7 +1,7 @@
 {
   "status": "expert_reviewed",
   "expert_code": "E-0731",
-  "expert_qualification": "nuclear medicine associate chief physician; 11 years PET/CT reading, 5 years report review; independent Chinese and English medical-text reading",
+  "expert_qualification": "senior nuclear medicine physician; 11 years PET/CT reading, 5 years report review; independent Chinese and English medical-text reading",
   "n_total": 180,
   "expert_counts": {
     "over_normalization": 121,
